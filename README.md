@@ -11,4 +11,4 @@ September 2021, 30 Days of NLP Learning and Code
 - [3] [word2vec Parameter Learning Explained by Xin Rong](https://arxiv.org/pdf/1411.2738.pdf)
 - [4] [Efficient Estimation of Word Representations in Vector Space by Mikolov et al](https://arxiv.org/pdf/1301.3781.pdf): The Word2vec model is in many ways the dawn of modern-day NLP.
 - [5] Chris McCormick, [Word2Vec Tutorial - The Skip-Gram Model](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)
-- [6] Dan Jurafsky and James H. Martin, [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/)
+- [6] Dan Jurafsky and James H. Martin, [Speech and Language Processing (3rd ed. draft)](https://web.stanford.edu/~jurafsky/slp3/) - recommended for it's short but concise overview of different neural network methods for NLP.
