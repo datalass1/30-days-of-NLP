@@ -3,6 +3,7 @@ GoogleNews*
 DATAPATH/
 Data/
 models/
+plots/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
