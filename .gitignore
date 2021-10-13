@@ -4,6 +4,7 @@ DATAPATH/
 Data/
 models/
 plots/
+private_notebooks/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
